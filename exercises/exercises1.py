@@ -46,6 +46,7 @@ def favorite_book():
     print(f'One of my favorite books is {favorite_book()}!is cat in the hat.')
     favorite_book('cat in the hat.')
 
+
 # Writing a function and also printing of what we learned about
     # in this chapter.
     # Also called a function as a book title
